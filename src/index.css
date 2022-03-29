@@ -1,0 +1,16 @@
+body {
+  margin: 0 auto;
+  background-image: url('https://cdn.chrisogrady.com/wp-content/uploads/096-restaurant-architecture-photography-bejing-char-restaurant-1.jpg');
+  background-repeat: no-repeat;
+  background-color: #cccccc;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ /* width: 100vh;
+ height: 100vh; */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
